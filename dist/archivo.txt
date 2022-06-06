@@ -1,0 +1,8 @@
+inicio
+const
+entero MAX=10;
+cadena MENSAJE="BIENVENIDO AL SISTEMA";
+real PI=3.1416;
+
+visua "El valor de PI es =",PI;
+fin
